@@ -1,1 +1,1 @@
-This is the README file for the project
+This is the repository for the bachelor project of Sondre M. Eggan and Sebastian Opsahl.
